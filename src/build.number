@@ -1,0 +1,9 @@
+#Ant properties
+#Fri Jul 06 10:20:34 IST 2018
+build.builddate=20180706 1019
+build.group.id=de.hybris.platform
+build.module.name=platform-module
+build.releasedate=20180313 1011
+build.vendor=hybris
+build.version=6.7.0.0
+build.version.api=6.7.0
